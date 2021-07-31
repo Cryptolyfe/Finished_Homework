@@ -1,0 +1,6 @@
+|---------------- Bank Records --------------------|
+Total number of months in dataset is 258
+Total amount of profit in dataset is 3741.0
+Average change in dataset is -2315.1176470588234
+Greatest increase in profit in dataset is 1926159
+Greatest decrease in profit in dataset is -2196167
